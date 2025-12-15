@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year M.S. student at the Natural Language Processing and Knowledge Engineering (NLKE) Group, Institute of Automation, Chinese Academy of Sciences, advised by Yubo Chen and Jun Zhao. I am also very fortunate to work with Xiang Yue at Carnegie Mellon University. My research interests include RL Generalizability, Multimodal Reasoning, and Trustworthy LLMs. 
- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently.
 
 
 # 🔥 News
