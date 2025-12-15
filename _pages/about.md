@@ -36,7 +36,7 @@ I am currently a second-year doctoral candidate at the Multi-domain Intelligent 
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/method.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Understanding and Mitigating Over-refusal for Large Language Models via Safety Representation**](https://arxiv.org/pdf/2511.19009)
@@ -47,7 +47,7 @@ we first analyze the causes of over-refusal from a representation perspective, r
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJRS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJRS 2025</div><img src='images/domain gap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Unsupervised global-local domain adaptation with self-training for remote sensing image semantic segmentation**](https://www.tandfonline.com/doi/full/10.1080/01431161.2025.2450564)
@@ -58,7 +58,7 @@ We propose a hybrid training framework that integrates global-local adversarial 
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/UDA-ag.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Unsupervised adversarial domain adaptation for agricultural land extraction of remote sensing images**](https://www.mdpi.com/2072-4292/14/24/6298)
@@ -69,7 +69,7 @@ we use an unsupervised adversarial domain adaptation method to train a neural ne
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/HSI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Fusing spatial attention with spectral-channel attention mechanism for hyperspectral image classification via encoder–decoder networks**](https://www.mdpi.com/2072-4292/14/9/1968)
@@ -80,7 +80,7 @@ We propose an encoder–decoder network that fuses spatial attention and spectra
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plants 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plants 2023</div><img src='images/PLANTS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**YOLOv7-Plum: advancing plum fruit detection in natural environments with deep learning**](https://www.mdpi.com/2223-7747/12/15/2883)
