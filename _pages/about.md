@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year doctoral candidate at the Multi-domain Intelligent Perception and Cognition Laboratory, School of Electronic and Information, Northwestern Polytechnical University. I am supervised by Professor [Wen Jiang](https://teacher.nwpu.edu.cn/jiangwen.html), Professor [Xinyang Deng](https://teacher.nwpu.edu.cn/2017010003.html), and Professor [Qianli Zhou](https://noah199711.github.io/). My research interests include **LLM Safety**, **Mechanism Interpretability**, and **Computer Vsion**.
- 
-# 📖 Educations
-- *2024 – Fall 2028 (Expected)*, Institute of Electronic and Information, Northwestern Polytechnical University, Xian, ShanXi.
-// ... (后续内容不变)
+I am currently a second-year doctoral candidate at the Multi-domain Intelligent Perception and Cognition Laboratory, School of Electronic and Information, Northwestern Polytechnical University. I am supervised by Professor [Wen Jiang](https://teacher.nwpu.edu.cn/jiangwen.html), Professor [Xinyang Deng](https://teacher.nwpu.edu.cn/2017010003.html), and Professor [Qianli Zhou](https://noah199711.github.io/). 
+My research interests include：
+ - **LLM Safety**
+ - **Mechanism Interpretability**
+ - **Computer Vsion**
+
 
 # 📖 Educations
 - *2024 – Fall 2028 (Expected)*, Institute of Electronic and Information, Northwestern Polytechnical University, Xian, ShanXi.
