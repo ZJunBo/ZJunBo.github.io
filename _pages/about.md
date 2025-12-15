@@ -24,9 +24,15 @@ I am currently a second-year doctoral candidate at the Multi-domain Intelligent 
 - *2021 – 2024*, **School of Information Engineering, Sichuan Agricultural University**, Ya'an, Sichuan.
 - *2017 – 2021*, **School of Information Engineering, Sichuan Agricultural University**, Ya'an, Sichuan.
 
-# 🔥 News
-- *2025.11*: 🎉 New preprint <a href="https://arxiv.org/pdf/2511.19009" target="_blank">‘‘Understanding and Mitigating Over-refusal for Large Language Models via Safety Representation’’</a> released.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards
+- *2023* Third-Class Academic Scholarship for Master's Students. 
+- *2023* Excellence Award in Academic Presentation, Postgraduate Innovation and Design Competition on "Digital Agriculture and Intelligent Decision-Making".
+- *2023* Champion of Men's Singles and Doubles, Postgraduate Table Tennis Competition.
+- *2023* 5th Place, "The Ultimate Team" Table Tennis Competition, Sichuan Agricultural University. 
+- *2023* 5th Place (Team), Inter-Campus Table Tennis League, Sichuan Agricultural University.
+- *2022* First-Class Academic Scholarship for Master's Students. 
+- *2021* 4th Place, Men's Singles, "Freshmen Cup" Table Tennis Competition, Sichuan Agricultural University.
+
 
 # 📝 Selected Publications 
 
@@ -75,9 +81,6 @@ We propose an encoder–decoder network that fuses spatial attention and spectra
 </div></div>
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
 
