@@ -69,7 +69,7 @@ We adopt unsupervised adversarial domain adaptation for agricultural land extrac
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/HSI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/HSI.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Fusing spatial attention with spectral-channel attention mechanism for hyperspectral image classification via encoder–decoder networks**](https://www.mdpi.com/2072-4292/14/9/1968)
