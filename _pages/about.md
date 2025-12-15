@@ -74,7 +74,7 @@ We adopt unsupervised adversarial domain adaptation for agricultural land extrac
 
 [**Fusing spatial attention with spectral-channel attention mechanism for hyperspectral image classification via encoder–decoder networks**](https://www.mdpi.com/2072-4292/14/9/1968)
 
-**Jun Sun**, **Junbo Zhang**, Xuesong Gao, Mantao Wang, Dinghua Ou, Xiaobo Wu, Dejun Zhang
+**Jun Sun**\*, **Junbo Zhang**\*, Xuesong Gao, Mantao Wang, Dinghua Ou, Xiaobo Wu, Dejun Zhang
 
 We propose an encoder-decoder network fusing spatial and spectral-channel attention, with three fusion strategies to utilize dual attention. We use a hierarchical Transformer in the encoder to extract long-range context, and fuse multi-scale features via upsampling and skip connections in the decoder, improving hyperspectral image classification performance.
 
