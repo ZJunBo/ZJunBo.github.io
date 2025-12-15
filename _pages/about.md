@@ -21,7 +21,7 @@ I am currently a second-year doctoral candidate at the Multi-domain Intelligent 
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉 New preprint‘‘RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality’’(https://arxiv.org/pdf/2511.19009) released.
+- *2025.11*: 🎉 New preprint <a href="https://arxiv.org/pdf/2511.19009" target="_blank">Understanding and Mitigating Over-refusal for Large Language Models via Safety Representation</a> released.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
