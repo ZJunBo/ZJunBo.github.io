@@ -25,13 +25,13 @@ I am currently a second-year doctoral candidate at the Multi-domain Intelligent 
 - *2017 – 2021*, **School of Information Engineering, Sichuan Agricultural University**, Ya'an, Sichuan.
 
 # 🎖 Honors and Awards
-- *2023* Third-Class Academic Scholarship for Master's Students. 
-- *2023* Excellence Award in Academic Presentation, Postgraduate Innovation and Design Competition on "Digital Agriculture and Intelligent Decision-Making".
-- *2023* Champion of Men's Singles and Doubles, Postgraduate Table Tennis Competition.
-- *2023* 5th Place, "The Ultimate Team" Table Tennis Competition, Sichuan Agricultural University. 
-- *2023* 5th Place (Team), Inter-Campus Table Tennis League, Sichuan Agricultural University.
-- *2022* First-Class Academic Scholarship for Master's Students. 
-- *2021* 4th Place, Men's Singles, "Freshmen Cup" Table Tennis Competition, Sichuan Agricultural University.
+- *2023*: Third-Class Academic Scholarship for Master's Students. 
+- *2023*: Excellence Award in Academic Presentation, Postgraduate Innovation and Design Competition on "Digital Agriculture and Intelligent Decision-Making".
+- *2023*: Champion of Men's Singles and Doubles, Postgraduate Table Tennis Competition.
+- *2023*: 5th Place, "The Ultimate Team" Table Tennis Competition, Sichuan Agricultural University. 
+- *2023*: 5th Place (Team), Inter-Campus Table Tennis League, Sichuan Agricultural University.
+- *2022*: First-Class Academic Scholarship for Master's Students. 
+- *2021*: 4th Place, Men's Singles, "Freshmen Cup" Table Tennis Competition, Sichuan Agricultural University.
 
 
 # 📝 Selected Publications 
