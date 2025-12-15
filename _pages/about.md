@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year doctoral candidate at the Multi-domain Intelligent Perception and Cognition Laboratory, School of Electronic and Information Engineering, Northwestern Polytechnical University. I am supervised by Professor [Wen Jiang](https://teacher.nwpu.edu.cn/jiangwen.html), Professor [Deng Xinyang](https://teacher.nwpu.edu.cn/2017010003.html), and Professor [Zhou Qianli](https://noah199711.github.io/). My research interests include **LLM Safety**, **Mechanism Interpretability**, and **Computer Vsion**.
+I am currently a second-year doctoral candidate at the Multi-domain Intelligent Perception and Cognition Laboratory, School of Electronic and Information, Northwestern Polytechnical University. I am supervised by Professor [Wen Jiang](https://teacher.nwpu.edu.cn/jiangwen.html), Professor [Xinyang Deng](https://teacher.nwpu.edu.cn/2017010003.html), and Professor [Qianli Zhou](https://noah199711.github.io/). My research interests include **LLM Safety**, **Mechanism Interpretability**, and **Computer Vsion**.
 
 # 📖 Educations
-- *2024 – Fall 2028 (Expected)*, **Institute of Electronic and Information Engineering, Northwestern Polytechnical University**, Xian, ShanXi.
-- *2021 – 2024*, **School of Information Engineering, Sichuan Agricultural University**, Ya'an, Sichuan.
-- *2017 – 2021*, **School of Information Engineering, Sichuan Agricultural University**, Ya'an, Sichuan.
+- *2024 – Fall 2028 (Expected)*, Institute of Electronic and Information, Northwestern Polytechnical University, Xian, ShanXi.
+- *2021 – 2024*, School of Information Engineering, Sichuan Agricultural University, Ya'an, Sichuan.
+- *2017 – 2021*, School of Information Engineering, Sichuan Agricultural University, Ya'an, Sichuan.
 
 # 🎖 Honors and Awards
 - *2023*: Third-Class Academic Scholarship for Master's Students. 
