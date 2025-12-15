@@ -18,8 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a second-year doctoral candidate at the Multi-domain Intelligent Perception and Cognition Laboratory, School of Electronic and Information, Northwestern Polytechnical University. I am supervised by Professor [Wen Jiang](https://teacher.nwpu.edu.cn/jiangwen.html), Professor [Xinyang Deng](https://teacher.nwpu.edu.cn/2017010003.html), and Professor [Qianli Zhou](https://noah199711.github.io/). My research interests include **LLM Safety**, **Mechanism Interpretability**, and **Computer Vsion**.
-My research interest includes speech synthesis, neural machine translation and automatic music generation. I have published 50+ papers <a href='https://scholar.google.com/citations?user=NyUGW2kAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ICML, ICLR, KDD. 
-
+ 
+# 📖 Educations
+- *2024 – Fall 2028 (Expected)*, Institute of Electronic and Information, Northwestern Polytechnical University, Xian, ShanXi.
+// ... (后续内容不变)
 
 # 📖 Educations
 - *2024 – Fall 2028 (Expected)*, Institute of Electronic and Information, Northwestern Polytechnical University, Xian, ShanXi.
