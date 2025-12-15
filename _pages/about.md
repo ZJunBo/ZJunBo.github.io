@@ -80,7 +80,14 @@ We propose an encoder–decoder network that fuses spatial attention and spectra
 
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plants 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[**YOLOv7-Plum: advancing plum fruit detection in natural environments with deep learning**](https://www.mdpi.com/2223-7747/12/15/2883)
 
+Rong Tang, Yujie Lei, Beisiqi Luo, **Junbo Zhang**, Jiong Mu
 
+ We propose an efficient plum fruit detection model based on an improved You Only Look Once version 7(YOLOv7). First, different devices were used to capture high-resolution images of plum fruits growing under natural conditions in a plum orchard in Gulin County, Sichuan Province, and a dataset for plum fruit detection was formed after the manual screening, data enhancement, and annotation. Based on the dataset, this paper chose YOLOv7 as the base model, introduced the Convolutional Block Attention Module (CBAM) attention mechanism in YOLOv7, used Cross Stage Partial Spatial Pyramid Pooling–Fast (CSPSPPF) instead of Cross Stage Partial Spatial Pyramid Pooling(CSPSPP) in the network, and used bilinear interpolation to replace the nearest neighbor interpolation in the original network upsampling module to form the improved target detection algorithm YOLOv7-plum.
+
+</div></div>
 
