@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently.
+I am currently a second-year doctoral candidate at the Multi-domain Intelligent Perception and Cognition Laboratory, School of Electronic and Information Engineering, Northwestern Polytechnical University. I am supervised by Professor Jiang Wen, Professor Deng Xinyang, and Professor Zhou Qianli. My research interests include **LLM Safety**, **Mechanism Interpretability**, and **Computer Vsion**.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉 New preprint‘‘RULE: Reinforcement Unlearning Achieves Forget-retain Pareto Optimality’’(https://arxiv.org/pdf/2511.19009) released.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
