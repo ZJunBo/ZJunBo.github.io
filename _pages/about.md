@@ -43,7 +43,7 @@ I am currently a second-year doctoral candidate at the Multi-domain Intelligent 
 
 **Junbo Zhang**, Ran Chen, Qianli Zhou, Xinyang Deng, Wen Jiang
 
-we first analyze the causes of over-refusal from a representation perspective, revealing that over-refusal samples reside at the boundary between benign and malicious samples. Based on this, we propose MOSR, designed to mitigate over-refusal by intervening the safety representation of LLMs. MOSR incorporates two novel components: (1) Overlap-Aware Loss Weighting, which determines the erasure weight for malicious samples by quantifying their similarity to pseudo-malicious samples in the representation space, and (2) Context-Aware Augmentation, which supplements the necessary context for rejection decisions by adding harmful prefixes before rejection responses. Experiments demonstrate that our method outperforms existing approaches in mitigating overrefusal while largely maintaining safety. Overall, we advocate that future defense methods should strike a better balance between safety and over-refusal.
+We analyze over-refusal in LLMs from a representation perspective, finding such samples lie at the boundary of benign and malicious ones. We propose MOSR with Overlap-Aware Loss Weighting and Context-Aware Augmentation to intervene safety representation. Experiments show we mitigate over-refusal while maintaining safety, offering insights for balancing model safety and over-refusal.
 
 </div></div>
 
@@ -54,7 +54,7 @@ we first analyze the causes of over-refusal from a representation perspective, r
 
 **Junbo Zhang**, Zhiyong Li, Mantao Wang, Kunhong Li
 
-We propose a hybrid training framework that integrates global-local adversarial training and self-training strategies to effectively tackle global-local domain shift. First, the adversarial approach measures the discrepancies between domains from domain and category-level perspectives. The adversarial network incorporates discriminators at the local-category and global-domain levels, thereby facilitating global-local feature alignment through multi-level adversarial training. Second, the self-training strategy is integrated to acquire domain-specific knowledge, effectively mitigating negative migration. By combining these two domain adaptation strategies, we present a more efficient approach for mitigating the domain gap. Finally, a self-labelling mechanism is introduced to directly explore the inherent distribution of pixels, allowing for the rectification of pseudo labels generated during the self-training stage. 
+We propose a hybrid framework integrating global-local adversarial training and self-training. We achieve feature alignment via multi-level discriminators, acquire domain-specific knowledge through self-training, and correct pseudo-labels with a self-labeling mechanism, effectively alleviating global-local domain shift for remote sensing image semantic segmentation.
 
 </div></div>
 
@@ -65,7 +65,7 @@ We propose a hybrid training framework that integrates global-local adversarial 
 
 **Junbo Zhang**, Shifeng Xu, Jun Sun, Dinghua Ou, Xiaobo Wu, Mantao Wang
 
-we use an unsupervised adversarial domain adaptation method to train a neural network to close the gap between the source and target domains for unsupervised agricultural land extraction. The overall approach consists of two phases: inter-domain and intra-domain adaptation. In the inter-domain adaptation, we use a generative adversarial network (GAN) to reduce the inter-domain gap between the source domain (labeled dataset) and the target domain (unlabeled dataset). The transformer with robust long-range dependency modeling acts as the backbone of the generator. In addition, the multi-scale feature fusion (MSFF) module is designed in the generator to accommodate remote sensing datasets with different spatial resolutions. Further, we use an entropy-based approach to divide the target domain. The target domain is divided into two subdomains, easy split images and hard split images. By training against each other between the two subdomains, we reduce the intra-domain gap.
+We adopt unsupervised adversarial domain adaptation for agricultural land extraction. We use Transformer as the generator backbone with a multi-scale feature fusion module, reduce source-target domain gap via GAN, and minimize intra-domain differences by dividing the target domain with an entropy-based method, enabling accurate unsupervised extraction.
 
 </div></div>
 
@@ -76,7 +76,7 @@ we use an unsupervised adversarial domain adaptation method to train a neural ne
 
 **Jun Sun**, **Junbo Zhang**, Xuesong Gao, Mantao Wang, Dinghua Ou, Xiaobo Wu, Dejun Zhang
 
-We propose an encoder–decoder network that fuses spatial attention and spectral-channel attention for HSI classification from three public HSI datasets to tackle these issues. In terms of feature information fusion, a multi-source attention mechanism including spatial and spectral-channel attention is proposed to encode the spatial and spectral multi-channels contextual information. Moreover, three fusion strategies are proposed to effectively utilize spatial and spectral-channel attention. They are direct aggregation, aggregation on feature space, and Hadamard product. In terms of network development, an encoder–decoder framework is employed for hyperspectral image classification. The encoder is a hierarchical transformer pipeline that can extract long-range context information. Both shallow local features and rich global semantic information are encoded through hierarchical feature expressions. The decoder consists of suitable upsampling, skip connection, and convolution blocks, which fuse multi-scale features efficiently. 
+We propose an encoder-decoder network fusing spatial and spectral-channel attention, with three fusion strategies to utilize dual attention. We use a hierarchical Transformer in the encoder to extract long-range context, and fuse multi-scale features via upsampling and skip connections in the decoder, improving hyperspectral image classification performance.
 
 </div></div>
 
@@ -87,7 +87,7 @@ We propose an encoder–decoder network that fuses spatial attention and spectra
 
 Rong Tang, Yujie Lei, Beisiqi Luo, **Junbo Zhang**, Jiong Mu
 
- We propose an efficient plum fruit detection model based on an improved You Only Look Once version 7(YOLOv7). First, different devices were used to capture high-resolution images of plum fruits growing under natural conditions in a plum orchard in Gulin County, Sichuan Province, and a dataset for plum fruit detection was formed after the manual screening, data enhancement, and annotation. Based on the dataset, this paper chose YOLOv7 as the base model, introduced the Convolutional Block Attention Module (CBAM) attention mechanism in YOLOv7, used Cross Stage Partial Spatial Pyramid Pooling–Fast (CSPSPPF) instead of Cross Stage Partial Spatial Pyramid Pooling(CSPSPP) in the network, and used bilinear interpolation to replace the nearest neighbor interpolation in the original network upsampling module to form the improved target detection algorithm YOLOv7-plum.
+We propose YOLOv7-Plum, an improved YOLOv7-based model for plum fruit detection. We construct a dataset of plums in natural environments, introduce CBAM attention, replace CSPSPP with CSPSPPF, and use bilinear interpolation for upsampling, enhancing detection efficiency and accuracy.
 
 </div></div>
 
