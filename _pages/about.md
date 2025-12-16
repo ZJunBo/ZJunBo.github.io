@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a second-year doctoral candidate at the Multi-domain Intelligent Perception and Cognition Laboratory, School of Electronic and Information, Northwestern Polytechnical University. I am supervised by Professor [Wen Jiang](https://teacher.nwpu.edu.cn/jiangwen.html), Professor [Xinyang Deng](https://teacher.nwpu.edu.cn/2017010003.html), and Professor [Qianli Zhou](https://noah199711.github.io/). 
+I am committed to identifying important and valuable problems in the field and delivering simple yet effective solutions.
 My research interests include：
  - **LLM Safety**
  - **Mechanism Interpretability**
