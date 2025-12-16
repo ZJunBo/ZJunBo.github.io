@@ -53,7 +53,7 @@ We analyze over-refusal in LLMs from a representation perspective, finding such 
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJRS 2025</div><img src='images/domain gap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJRS 2024</div><img src='images/domain gap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Unsupervised global-local domain adaptation with self-training for remote sensing image semantic segmentation**](https://www.tandfonline.com/doi/full/10.1080/01431161.2025.2450564)
@@ -61,6 +61,17 @@ We analyze over-refusal in LLMs from a representation perspective, finding such 
 **Junbo Zhang**, Zhiyong Li, Mantao Wang, Kunhong Li
 
 We propose a hybrid framework integrating global-local adversarial training and self-training. We achieve feature alignment via multi-level discriminators, acquire domain-specific knowledge through self-training, and correct pseudo-labels with a self-labeling mechanism, effectively alleviating global-local domain shift for remote sensing image semantic segmentation.
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plants 2023</div><img src='images/PLANTS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**YOLOv7-Plum: advancing plum fruit detection in natural environments with deep learning**](https://www.mdpi.com/2223-7747/12/15/2883)
+
+Rong Tang, Yujie Lei, Beisiqi Luo, **Junbo Zhang**, Jiong Mu
+
+We propose YOLOv7-Plum, an improved YOLOv7-based model for plum fruit detection. We construct a dataset of plums in natural environments, introduce CBAM attention, replace CSPSPP with CSPSPPF, and use bilinear interpolation for upsampling, enhancing detection efficiency and accuracy.
 
 </div></div>
 
@@ -86,14 +97,5 @@ We propose an encoder-decoder network fusing spatial and spectral-channel attent
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Plants 2023</div><img src='images/PLANTS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[**YOLOv7-Plum: advancing plum fruit detection in natural environments with deep learning**](https://www.mdpi.com/2223-7747/12/15/2883)
-
-Rong Tang, Yujie Lei, Beisiqi Luo, **Junbo Zhang**, Jiong Mu
-
-We propose YOLOv7-Plum, an improved YOLOv7-based model for plum fruit detection. We construct a dataset of plums in natural environments, introduce CBAM attention, replace CSPSPP with CSPSPPF, and use bilinear interpolation for upsampling, enhancing detection efficiency and accuracy.
-
-</div></div>
 
