@@ -64,6 +64,29 @@ We propose a hybrid framework integrating global-local adversarial training and 
 
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/UDA-ag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Unsupervised adversarial domain adaptation for agricultural land extraction of remote sensing images**](https://www.mdpi.com/2072-4292/14/24/6298)
+
+**Junbo Zhang**, Shifeng Xu, Jun Sun, Dinghua Ou, Xiaobo Wu, Mantao Wang
+
+We adopt unsupervised adversarial domain adaptation for agricultural land extraction. We use Transformer as the generator backbone with a multi-scale feature fusion module, reduce source-target domain gap via GAN, and minimize intra-domain differences by dividing the target domain with an entropy-based method, enabling accurate unsupervised extraction.
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/HSI.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Fusing spatial attention with spectral-channel attention mechanism for hyperspectral image classification via encoder–decoder networks**](https://www.mdpi.com/2072-4292/14/9/1968)
+
+**Jun Sun**\*, **Junbo Zhang**\*, Xuesong Gao, Mantao Wang, Dinghua Ou, Xiaobo Wu, Dejun Zhang
+
+We propose an encoder-decoder network fusing spatial and spectral-channel attention, with three fusion strategies to utilize dual attention. We use a hierarchical Transformer in the encoder to extract long-range context, and fuse multi-scale features via upsampling and skip connections in the decoder, improving hyperspectral image classification performance.
+
+</div></div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2024</div><img src='images/BAformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,27 +109,7 @@ We propose YOLOv7-Plum, an improved YOLOv7-based model for plum fruit detection.
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/UDA-ag.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[**Unsupervised adversarial domain adaptation for agricultural land extraction of remote sensing images**](https://www.mdpi.com/2072-4292/14/24/6298)
-
-**Junbo Zhang**, Shifeng Xu, Jun Sun, Dinghua Ou, Xiaobo Wu, Mantao Wang
-
-We adopt unsupervised adversarial domain adaptation for agricultural land extraction. We use Transformer as the generator backbone with a multi-scale feature fusion module, reduce source-target domain gap via GAN, and minimize intra-domain differences by dividing the target domain with an entropy-based method, enabling accurate unsupervised extraction.
-
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/HSI.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Fusing spatial attention with spectral-channel attention mechanism for hyperspectral image classification via encoder–decoder networks**](https://www.mdpi.com/2072-4292/14/9/1968)
-
-**Jun Sun**\*, **Junbo Zhang**\*, Xuesong Gao, Mantao Wang, Dinghua Ou, Xiaobo Wu, Dejun Zhang
-
-We propose an encoder-decoder network fusing spatial and spectral-channel attention, with three fusion strategies to utilize dual attention. We use a hierarchical Transformer in the encoder to extract long-range context, and fuse multi-scale features via upsampling and skip connections in the decoder, improving hyperspectral image classification performance.
-
-</div></div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SR 2024</div><img src='images/pr.png' alt="sym" width="100%"></div></div>
