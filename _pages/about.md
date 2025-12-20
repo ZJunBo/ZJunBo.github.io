@@ -97,5 +97,27 @@ We propose an encoder-decoder network fusing spatial and spectral-channel attent
 
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/BAformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**BAFormer: A Novel Boundary-Aware Compensation UNet-like Transformer for High-Resolution Cropland Extraction**](https://www.mdpi.com/2072-4292/16/14/2526)
+
+Zhiyong Li, Youming Wang, Fa Tian, **Junbo Zhang**, Yijie Chen, Kunhong Li
+
+To address inaccurate boundary segmentation in heterogeneous croplands, this paper proposes BAFormer, a UNet-like boundary-aware model. It targets high-frequency boundary features by integrating a Feature Adaptive Mixer (FAM) for adaptive feature acquisition and a Depthwise Large Kernel MLP (DWLK-MLP) to supplement positional information via large receptive fields. Evaluations on datasets like Vaihingen demonstrate superior performance, with the lightweight BAFormer-T notably outperforming existing models.
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='images/pr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Multi-Scale Spatial Attention-Based Multi-Channel 2D Convolutional Network for Soil Property Prediction**](https://www.mdpi.com/1424-8220/24/14/4728)
+
+Guolun Feng, Zhiyong Li, **Junbo Zhang**, Mantao Wang
+
+To address low accuracy in VNIR soil prediction models, we propose a Convolutional Neural Network (CNN) utilizing 2D multi-channel inputs and a multi-scale spatial attention mechanism.
+By applying the Gramian Angular Field (GAF) method to the LUCAS dataset, this approach significantly enhances feature extraction. Statistical comparisons confirm that the model outperforms current state-of-the-art techniques, achieving high precision across seven key soil properties.
+
+</div></div>
 
 
