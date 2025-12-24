@@ -26,9 +26,9 @@ My research interests include：
 
 
 # 📖 Educations
-- *2024 – Fall 2028 (Expected)*, Institute of Electronic and Information, Northwestern Polytechnical University, Xian, ShanXi.
-- *2021 – 2024*, School of Information Engineering, Sichuan Agricultural University, Ya'an, Sichuan.
-- *2017 – 2021*, School of Information Engineering, Sichuan Agricultural University, Ya'an, Sichuan.
+- *2024 – Fall 2028 (Expected)*, Ph.D., Institute of Electronic and Information, Northwestern Polytechnical University, Xian, ShanXi.
+- *2021 – 2024*, M.Eng., School of Information Engineering, Sichuan Agricultural University, Ya'an, Sichuan.
+- *2017 – 2021*, B.Eng., School of Information Engineering, Sichuan Agricultural University, Ya'an, Sichuan.
 
 # 🎖 Honors and Awards
 - *2023*: Third-Class Academic Scholarship for Master's Students. 
